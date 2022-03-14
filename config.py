@@ -3,7 +3,7 @@ import sqlalchemy
 class ConfigDebug():
     SECRET_KEY = 'nowichange#!1212'
   #  SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:Lsafms01a!@localhost/pabanken'
-    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root12345:Hejsan123#@pontus1920.mysql.database.azure.com/azuretest'    # File-based SQL database
+    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://vnqscrjgjq:XAJSNF3QJ75TUUK6$@p2azuretest-server.mysql.database.azure.com/azuretest'    # File-based SQL database
 #    SQLALCHEMY_DATABASE_URI = 'mysql.connector.connect(user="root12345, password="Hejsan123#", host="pontus1920.mysql.database.azure.com", port=3306, database="azuretest", ssl_ca="{ca-cert filename}", ssl_disabled=False)'
 
     # SQLALCHEMY_TRACK_MODIFICATION=False
