@@ -1,7 +1,5 @@
 import sqlalchemy
 
-
-
 class ConfigDebug():
     SECRET_KEY = 'nowichange#!1212'
   #  SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:Lsafms01a!@localhost/pabanken'
